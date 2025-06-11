@@ -1,4 +1,4 @@
-# 💾 RDP actuales y económicos
+# 💾 DRP actuales y económicos
 
 **Soluciones de Backup modernas y accesibles**
 
