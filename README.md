@@ -49,7 +49,7 @@ aws configure
 # AWS Secret Access Key [None]: TU_SECRET_KEY
 # Default region name [None]: us-east-1
 # Default output format [None]: json
-
+```
 ## 📥 Descarga rápida
 
 También podés descargar todos los archivos desde el paquete ZIP original:  
