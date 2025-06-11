@@ -68,7 +68,7 @@ También podés descargar todos los archivos desde el paquete ZIP original:
 
 ## 🤝 Licencia y uso
 
-Esto es de uso libre para la comunidad. ¡Ayudemos a proteger los datos críticos de las PYMES argentinas!  
+Esto es de uso libre para la comunidad.  
 Se agradece mención si lo reutilizás o expandís.
 
 ---
