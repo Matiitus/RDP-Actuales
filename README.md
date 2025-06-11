@@ -1,6 +1,6 @@
 # 💾 RDP actuales y económicos
 
-**Soluciones de Backup modernas y accesibles **
+**Soluciones de Backup modernas y accesibles**
 
 Este proyecto proporciona **scripts reutilizables y adaptables** para implementar planes de respaldo a largo plazo utilizando **AWS Glacier** y **Azure Archive**, pensados para entornos virtualizados como **Proxmox, VMware y Hyper-V**.
 
